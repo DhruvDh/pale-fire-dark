@@ -1,13 +1,13 @@
 {
-    "name": "pale-fire",
-    "displayName": "Pale Fire",
-    "description": "Emacs-inspired zenburn variation",
+    "name": "pale-fire-dark",
+    "displayName": "Pale Fire Dark",
+    "description": "Dark version of matklad's emacs-inspired zenburn variation called pale-fire",
     "preview": true,
-    "publisher": "matklad",
+    "publisher": "dhruvdh",
     "repository": {
-        "url": "https://github.com/matklad/pale-fire"
+        "url": "https://github.com/dhruvdh/pale-fire-dark"
     },
-    "version": "0.1.10",
+    "version": "0.1.11",
     "engines": {
         "vscode": "^1.41.0"
     },
@@ -23,7 +23,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Pale Fire",
+                "label": "Pale Fire Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Pale Fire-color-theme.json"
             }
