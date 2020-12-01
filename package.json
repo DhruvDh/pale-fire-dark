@@ -2,12 +2,11 @@
     "name": "pale-fire-dark",
     "displayName": "Pale Fire Dark",
     "description": "Dark version of matklad's emacs-inspired zenburn variation called pale-fire",
-    "preview": true,
     "publisher": "dhruvdh",
     "repository": {
         "url": "https://github.com/dhruvdh/pale-fire-dark"
     },
-    "version": "0.2.16",
+    "version": "0.2.17",
     "engines": {
         "vscode": "^1.41.0"
     },
