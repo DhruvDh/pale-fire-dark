@@ -7,7 +7,7 @@
     "repository": {
         "url": "https://github.com/dhruvdh/pale-fire-dark"
     },
-    "version": "0.1.11",
+    "version": "0.2.11",
     "engines": {
         "vscode": "^1.41.0"
     },
